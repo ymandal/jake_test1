@@ -6,7 +6,7 @@ theme = "dark"
 primary_color = "#d81b60"
 text_align = "center"
 #gtag_id = "G-XLJ81DCZFV" (this is the google analytics tracking ID, current sample is the example from the original jake repo, not yours) 
-base_url = "https://ymandal.github.io/"
+base_url = "https://ymandal.github.io/jake_test1" #think this has to be the same as repo name?
 
 [[sections]]
 title = "Movies"
